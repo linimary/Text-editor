@@ -2,19 +2,19 @@ Program Overview: Text Transformation and Manipulation
 
 This program is designed to read, write, and transform text data. It supports various operations to manipulate input and output data. You can perform the following actions:
 
-*Remove a specific string from the content.
-*Remove entire lines containing a given string.
-*Remove a specific character.
-*Replace one string with another.
-*Remove punctuation.
-*Add a new line after each sentence.
-*Add a new line after each word.
-*Add new lines to limit each line to a maximum character count (without splitting words if possible).
-*Remove new lines.
-*Lexicographically sort all lines.
-*Remove duplicate lines.
-*Output the number of lines in the input data (which becomes the new output content).
-*Output the number of characters in the input data (which becomes the new output content).
+Remove a specific string from the content.
+Remove entire lines containing a given string.
+Remove a specific character.
+Replace one string with another.
+Remove punctuation.
+Add a new line after each sentence.
+Add a new line after each word.
+Add new lines to limit each line to a maximum character count (without splitting words if possible).
+Remove new lines.
+Lexicographically sort all lines.
+Remove duplicate lines.
+Output the number of lines in the input data (which becomes the new output content).
+Output the number of characters in the input data (which becomes the new output content).
 
 The program also allows you to group input, perform multiple transformations, and produce output in sequences of tasks. Here are a few example use cases:
 
